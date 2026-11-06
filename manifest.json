@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"Railway Booking Assistant","version":"1.0.0","description":"User-controlled Railway form helper with strict class lock.","permissions":["storage","activeTab","scripting"],"host_permissions":["https://eticket.railway.gov.bd/*"],"action":{"default_popup":"popup.html"}}
